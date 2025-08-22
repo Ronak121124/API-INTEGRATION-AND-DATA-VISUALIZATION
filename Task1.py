@@ -11,7 +11,7 @@ from datetime import datetime
 import pandas as pd
 
 # ✅ API setup
-API_KEY = "a2755c5c8b98da657bda9ea39b7d2e56"  
+API_KEY = "Enter Your API Key"  
 CITY = "Mumbai"
 BASE_URL = f"http://api.openweathermap.org/data/2.5/forecast?q={CITY}&appid={API_KEY}&units=metric"
 
@@ -110,3 +110,4 @@ if __name__ == "__main__":
 # It highlights your ability to turn raw data into actionable insights with clean code and thoughtful design.
 # Whether you're presenting to a client, refining your portfolio, or just practicing Python, this tool stands out.
 # It’s practical, impressive, and a strong foundation for more advanced weather analytics or data-driven storytelling.
+
